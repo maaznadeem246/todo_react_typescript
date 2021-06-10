@@ -1,3 +1,6 @@
+It was just introduction practice for React with typescript todo app
+from the online article
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
